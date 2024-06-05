@@ -8,7 +8,7 @@
 </p>
 <br><br>
 
-<p align="center">
+<p align="center" style="color: #c8c8c8;">
   As a software developer deeply entrenched in the world of technology, I'm constantly inspired by the ever-evolving landscape of coding and collaboration on platforms like GitHub. Within this dynamic ecosystem, the collaborative spirit and innovative mindset of developers shape the very fabric of our digital world. My journey as a software developer began with a passion for coding and a desire to contribute to impactful projects, which led me to immerse myself in the vibrant community of Tech 🚀
 </p>
 
@@ -33,7 +33,7 @@
 
 - 💞️ I’m looking to collaborate on GitHub.
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center" style="color: #c8c8c8;">GitHub Stats:</h3>
 <div align="center">
  
   ![Isayah's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaiah279&theme=midnightred&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
@@ -44,5 +44,4 @@
 
 <br><br>
 
-
-- ⚡ Fun fact: **I am funny😅**
+<p align="center" style="color: #c8c8c8;">⚡ Fun fact: **I am funny😅**</p>
